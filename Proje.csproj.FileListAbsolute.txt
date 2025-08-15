@@ -1,0 +1,17 @@
+C:\Users\osman\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\osman\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\osman\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.MalzemeForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.MusteriForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.SatislarForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.AnaMenu.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.SatisDetaylariForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.StokHareketleriForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.TedarikcilerForm.resources
+C:\Users\osman\source\repos\Proje\Proje\obj\Debug\Proje.GirisForm.resources
